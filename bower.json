@@ -1,10 +1,10 @@
 {
   "name": "angular-selectize2",
   "version": "3.0.1",
-  "main" : [
+  "main": [
     "./dist/angular-selectize.js"
   ],
   "dependencies": {
-    "selectize": ">=0.12.1"
+    "selectize": "https://github.com/mezzin/selectize.js.git#^0.12.4"
   }
 }
