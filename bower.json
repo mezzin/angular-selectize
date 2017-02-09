@@ -5,6 +5,6 @@
     "./dist/angular-selectize.js"
   ],
   "dependencies": {
-    "selectize": "https://github.com/mezzin/selectize.js.git#master"
+    "selectize": "https://github.com/mezzin/selectize.js.git#release"
   }
 }
